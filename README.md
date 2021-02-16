@@ -1,22 +1,21 @@
-## **Hi there, I'm Sophie** 👋
+## **Hi there, I'm Sophie and I am a Junior Full Stack Developer** ❤️‍🔥
 
-## I'm a Junior Developer!
 
 - 👩‍🎓 I complete a Full Stack Development Diploma with [Code Instute](https://codeinstitute.net/) in Sept. 2020!
 - 📈  I’m currently building a Covid-19 Tracker.
-- 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/),  **Profit with JavaScript**!
-- ❤️ 2021 Goals: Get a job in this field and keep on learning.
+- 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/),  **Profit with JavaScript** where I am building real life projects!
+- 🙏 2021 Goals: Get a job in this field and keep on learning.
 
 
 
-## **Connect with me:**
+## 📱 **Connect with me:**
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>][linkedin] 
 [<img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" >][instagram]
 
 <br />
 
-## **Languages and Tools:**
+## ✔️  **Languages and Tools:**
 
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />  
 
@@ -34,7 +33,7 @@
 
 <br />
 
-## **My GitHub Stats:** 
+## 📋 **My GitHub Stats:** 
 
 [![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieH93)](https://github.com/SophieH93/github-readme-stats)
 

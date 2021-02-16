@@ -32,10 +32,11 @@
 <img align="left" alt="bootstrap" width="26px" src="https://fonsekainnovations.com/app/uploads/2019/01/Bootstrap.png" />
 <img align="left" alt="material-ui" width="26px" src="https://material-ui.com/static/logo.png" />
 
+<br />
 
 ## **My GitHub Stats:** 
 
-  [![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieH93)](https://github.com/SophieH93/github-readme-stats)
+[![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieH93)](https://github.com/SophieH93/github-readme-stats)
 
 
 

@@ -10,8 +10,8 @@
 
 ## 📱 **Connect with me:**
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>][linkedin] 
-[<img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" >][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>][linkedin] 
+[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" >][instagram]
 
 <br />
 

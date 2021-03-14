@@ -2,7 +2,7 @@
 
 
 - 👩‍🎓 I complete a Full Stack Development Diploma with [Code Instute](https://codeinstitute.net/) in Sept. 2020!
-- 📈  I’m currently building a Covid-19 Tracker.
+- 📈  I’m currently building a WhatsApp Clone.
 - 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/),  **Profit with JavaScript** where I am building real life projects!
 - 🙏 2021 Goals: Get a job in this field and keep on learning.
 

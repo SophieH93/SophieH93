@@ -28,6 +28,7 @@
 <img align="left" alt="firebase" width="30px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
 <img align="left" alt="Mongodb" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="nodejs" width="30px" src="https://coursor.in/wp-content/uploads/2021/01/nodejs.png" />
+<img align="left" alt="django" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE3E-aFhgiuGFzhMcY7Gs9VL8XFbl_AJ7jCA&usqp=CAU" />
 <img align="left" alt="bootstrap" width="30px" src="https://fonsekainnovations.com/app/uploads/2019/01/Bootstrap.png" />
 <img align="left" alt="material-ui" width="30px" src="https://material-ui.com/static/logo.png" />
 <img align="left" alt="SQL" width="30px" src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" />

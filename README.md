@@ -7,10 +7,10 @@
 - 🙏 2021 Goals: Get a job in this field and keep on learning.
 
 ## 🤓 **Recent Projects**
-[FAQ Accordian](https://github.com/SophieH93/FAQ-Page-Starter-Package)
-[Covid-19 Tracker](https://github.com/SophieH93/Covid19Tracker)
-[Chrome Extension](https://github.com/SophieH93/chromeExtension)
-[Spotify Clone](https://github.com/SophieH93/spotify_clone)
+- [FAQ Accordian](https://github.com/SophieH93/FAQ-Page-Starter-Package)
+- [Covid-19 Tracker](https://github.com/SophieH93/Covid19Tracker)
+- [Chrome Extension](https://github.com/SophieH93/chromeExtension)
+- [Spotify Clone](https://github.com/SophieH93/spotify_clone)
 
 
 ## 📱 **Connect with me:**

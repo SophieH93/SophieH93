@@ -16,7 +16,7 @@
 1. [RachelHickeyPhotpgraphy-Frontend Porject](https://sophieh93.github.io/RachelHickeyPhotpgraphy/)
 2. [Let's Get Quizzicle-Javascript](https://sophieh93.github.io/letsgetquizzicle/)
 3. [Cookbook-Python](http://my-cookbook2020.herokuapp.com/home)
-4.upda [LIZ HICKEY LIFEDESIGN-Django](https://lizhickeylifedesign.herokuapp.com/)
+4. [LIZ HICKEY LIFEDESIGN-Django](https://lizhickeylifedesign.herokuapp.com/)
 
 ## 📱 **Connect with me:**
 

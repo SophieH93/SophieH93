@@ -30,6 +30,7 @@
 <img align="left" alt="nodejs" width="30px" src="https://coursor.in/wp-content/uploads/2021/01/nodejs.png" />
 <img align="left" alt="bootstrap" width="30px" src="https://fonsekainnovations.com/app/uploads/2019/01/Bootstrap.png" />
 <img align="left" alt="material-ui" width="30px" src="https://material-ui.com/static/logo.png" />
+<img align="left" alt="SQL" width="30px" src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" />
 
 <br />
 
@@ -38,7 +39,6 @@
 ![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieH93&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH93&layout=compact)](https://github.com/SophieH93/github-readme-stats)
 
 
 

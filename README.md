@@ -7,10 +7,11 @@
 - 🙏 2021 Goals: Get a job in this field and keep on learning.
 
 ## 🤓 **Recent Projects**
+- [Airbnb Clone](https://github.com/SophieH93/airbnbClone)
 - [FAQ Accordian](https://github.com/SophieH93/FAQ-Page-Starter-Package)
 - [Covid-19 Tracker](https://github.com/SophieH93/Covid19Tracker)
 - [Chrome Extension](https://github.com/SophieH93/chromeExtension)
-- [Spotify Clone](https://github.com/SophieH93/spotify_clone)
+
 
 ## 🎓 **College Projects**
 1. [RachelHickeyPhotpgraphy-Frontend Porject](https://sophieh93.github.io/RachelHickeyPhotpgraphy/)

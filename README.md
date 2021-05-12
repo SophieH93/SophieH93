@@ -1,17 +1,26 @@
-## **Hi there, I'm Sophie and I am a Junior Full Stack Developer** ❤️‍🔥
+## **Hi there, I'm Sophie and I am a Junior Full Stack Develope-Javascript|React** ❤️‍🔥
 
 
 - 👩‍🎓 I complete a Full Stack Development Diploma with [Code Instute](https://codeinstitute.net/) in Sept. 2020!
-- 📈  I’m currently building a [Disney+](https://github.com/SophieH93/DisneyPlus).
+- 🤓 - Currently studying ISTQB Software Testing.
 - 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/),  **Profit with JavaScript** where I am building real life projects!
 - 🙏 2021 Goals: Get a job in this field and keep on learning.
 
 ## 🤓 **Recent Projects**
+- [Disney+](https://github.com/SophieH93/DisneyPlus)
 - [Amazon Clone](https://github.com/SophieH93/amazonClone2)
 - [Airbnb Clone](https://github.com/SophieH93/airbnbClone)
 - [Covid-19 Tracker](https://github.com/SophieH93/Covid19Tracker)
 - [Chrome Extension](https://github.com/SophieH93/chromeExtension)
 
+## 👩‍💻 **Reactjs Projects**
+- [Disney+](https://github.com/SophieH93/DisneyPlus)
+- [Amazon Clone](https://github.com/SophieH93/amazonClone2)
+- [Airbnb Clone](https://github.com/SophieH93/airbnbClone)
+- [Spotify Clone](https://github.com/SophieH93/spotify_clone)
+- [Snapchat Clone](https://github.com/SophieH93/snapchatClone)
+- [LinkedIn Clone](https://github.com/SophieH93/linkedInClone)
+- [Netflix Clone](https://github.com/SophieH93/Netflix-Clone)
 
 ## 🎓 **College Projects**
 1. [RachelHickeyPhotpgraphy-Frontend Porject](https://sophieh93.github.io/RachelHickeyPhotpgraphy/)

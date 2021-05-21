@@ -7,11 +7,11 @@
 - 🙏 2021 Goals: Get a job in this field and keep on learning.
 
 ## 🤓 **Recent Projects**
+- [Travelville](https://github.com/SophieH93/travelvilleMaterialze)
 - [Disney+](https://github.com/SophieH93/DisneyPlus)
 - [Amazon Clone](https://github.com/SophieH93/amazonClone2)
-- [Airbnb Clone](https://github.com/SophieH93/airbnbClone)
-- [Covid-19 Tracker](https://github.com/SophieH93/Covid19Tracker)
-- [Chrome Extension](https://github.com/SophieH93/chromeExtension)
+
+
 
 ## 👩‍💻 **Reactjs Projects**
 - [Disney+](https://github.com/SophieH93/DisneyPlus)

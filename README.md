@@ -7,9 +7,9 @@
 - 🙏 2021 Goals: Get a job in this field and keep on learning.
 
 ## 🤓 **Recent Projects**
+- [React Login Form](https://github.com/SophieH93/react-loginForm)
+- [Job Search](https://github.com/SophieH93/SAAS-JobSearch)
 - [Breakout](https://github.com/SophieH93/breakoutGame)
-- [Travelville](https://github.com/SophieH93/travelvilleMaterialze)
-- [Disney+](https://github.com/SophieH93/DisneyPlus)
 
 
 ## 👩‍💻 **Reactjs Projects**

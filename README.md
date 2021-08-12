@@ -2,15 +2,23 @@
 
 
 - 👩‍🎓 I complete a Full Stack Development Diploma with [Code Instute](https://codeinstitute.net/) in Sept. 2020!
-- 🤓 - Currently studying ISTQB Software Testing.
-- 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/),  **Profit with JavaScript** where I am building real life projects!
-- 🙏 2021 Goals: Get a job in this field and keep on learning.
+- 🤓 -
+- 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/),  **Profit with JavaScript** where I am building real life projects & [PAPA React](https://www.papareact.com/) where I learn all things Reactjs!
+- 🙏 2021/2022 Goals: Get a job in this field as a Frontend Developer and keep on learning.
 
 ## 🤓 **Recent Projects**
+- [Youtube](https://github.com/SophieH93/youtube)
 - [React Login Form](https://github.com/SophieH93/react-loginForm)
 - [Job Search](https://github.com/SophieH93/SAAS-JobSearch)
-- [Breakout](https://github.com/SophieH93/breakoutGame)
 
+## 🖱️ **Javascript Projects**
+- [Youtube](https://github.com/SophieH93/youtube)
+- [Job Search](https://github.com/SophieH93/SAAS-JobSearch)
+- [Travelville](https://github.com/SophieH93/travelvilleMaterialze/blob/master/index.html)
+- [Covid19 Tracker](https://github.com/SophieH93/Covid19Tracker)
+- [Chrome Extension](https://github.com/SophieH93/chromeExtension)
+- [Blackjack](https://github.com/SophieH93/blackjack)
+- [Spotify Clone](https://github.com/SophieH93/spotify_clone)
 
 ## 👩‍💻 **Reactjs Projects**
 - [Disney+](https://github.com/SophieH93/DisneyPlus)
@@ -31,7 +39,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>][linkedin] 
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" >][instagram]
-[<img align="left" alt="codeSTACKr | Blogger" width="30px" src="https://www.blogger.com/img/logo_blogger_40px_2x.png" >][blogger]
+[<img align="left" alt="codeSTACKr | Blog" width="30px" src="https://www.blogger.com/img/logo_blogger_40px_2x.png" >][blog]
 
 <br />
 
@@ -67,6 +75,7 @@
 [website]: sophies-portfolio.herokuapp.com/
 [instagram]: https://www.instagram.com/irishgirldeveloper
 [linkedin]: https://www.linkedin.com/in/sophiehickey/
+[blog]: https://irishgirldeveloper.blogspot.com/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4

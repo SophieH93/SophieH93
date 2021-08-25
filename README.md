@@ -69,6 +69,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH93)](https://github.com/SophieH93/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH93&layout=compact)](https://github.com/SophieH93/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH93&layout=compact&show_icons=true&theme=radical)
 
 
 [website]: sophies-portfolio.herokuapp.com/

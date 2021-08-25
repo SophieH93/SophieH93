@@ -67,9 +67,7 @@
 
 ![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieH93&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieH93&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH93)](https://github.com/SophieH93/github-readme-stats)
 
 
 

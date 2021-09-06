@@ -3,8 +3,8 @@
 
 - 👩‍🎓 I completed a Full Stack Development Diploma with [Code Instute](https://codeinstitute.net/) in Sept. 2020!
 - ✨ Working on the [Javascript30](https://github.com/SophieH93/javascript30) Challenge.
-- 📘 Currently learning Gatsby by Wes Bos. 
-- Smaller frontend projects can be found on [Code Pen](https://codepen.io/SophH93)
+- 📘 Currently learning **Gatsby** by Wes Bos. 
+- 😄 Smaller frontend projects can be found on [Code Pen](https://codepen.io/SophH93)
 - 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/),  **Profit with JavaScript** where I am building real life projects & [PAPA React](https://www.papareact.com/) where I learn all things Reactjs!
 - 🙏 2021/2022 Goals: Get a job in this field as a Frontend Developer and keep on learning.
 

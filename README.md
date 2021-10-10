@@ -9,7 +9,7 @@
 - 🙏 2021/2022 Goals: Get a job in this field as a Frontend Developer and keep on learning.
 
 ## 🤓 **Recent Projects**
-- [Youtube](https://github.com/SophieH93/youtube)
+- [Cyrptoverse](https://github.com/SophieH93/CryptocurrencyApp)
 - [React Login Form](https://github.com/SophieH93/react-loginForm)
 - [Job Search](https://github.com/SophieH93/SAAS-JobSearch)
 
@@ -23,6 +23,7 @@
 - [Spotify Clone](https://github.com/SophieH93/spotify_clone)
 
 ## 👩‍💻 **Reactjs Projects**
+- [Cyrptoverse](https://github.com/SophieH93/CryptocurrencyApp)
 - [Disney+](https://github.com/SophieH93/DisneyPlus)
 - [Amazon Clone](https://github.com/SophieH93/amazonClone2)
 - [Airbnb Clone](https://github.com/SophieH93/airbnbClone)

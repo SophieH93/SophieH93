@@ -1,5 +1,5 @@
 
-[![Header](https://drive.google.com/file/d/17WKm0LV9ePe2pgeKTuMjyVbxPCBayFat/view?usp=sharing "Header")](https://drive.google.com/file/d/17WKm0LV9ePe2pgeKTuMjyVbxPCBayFat/view?usp=sharing/)
+[![Header](Hi, I'm Sophie! I am a Frontend Developer.png "Header")(Hi, I'm Sophie! I am a Frontend Developer.png)
 
 
 ## **Hi there, I'm Sophie and I am a Junior Full Stack Develope-Javascript|React** ❤️‍🔥

@@ -33,7 +33,7 @@
 
 <hr>
 
-## 🖱️ ![](https://img.shields.io/badge/JAVASCRIPT_PROJECTS-informational?style=flat&logo=&logoColor=white&color=8c52ff)
+## 🖱️ ![](https://img.shields.io/badge/JAVASCRIPT_PROJECTS-informational?style=for-the-badge&logo=appveyor=&logoColor=white&color=8c52ff)
 
 - [Youtube](https://github.com/SophieH93/youtube)
 - [Job Search](https://github.com/SophieH93/SAAS-JobSearch)

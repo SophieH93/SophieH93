@@ -4,6 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=eb0c88)](https://www.instagram.com/irishgirldeveloper/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=eb0c88)](https://codepen.io/SophH93)
 
+<hr>
+
 ## 👧 **Some Info About Me!**
 
 - 👩‍🎓 I completed a Full Stack Development Diploma with [Code Instute](https://codeinstitute.net/) in Sept. 2020!
@@ -12,6 +14,8 @@
 - 📱 Everything I learn, big or small, interesting websites etc I post on [Instagram](<(https://www.instagram.com/irishgirldeveloper/)>)
 - 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/), where I am building real life projects & [PAPA React](https://www.papareact.com/) where I learn all things Reactjs!
 - ✨Also interested in Cybersecurity & Ethical Hacking.
+
+<hr>
 
 ## 🔧 **Technologies and Tools:**
 
@@ -27,6 +31,7 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
 ![](https://img.shields.io/badge/Canva-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
 
+<hr>
 ## 🖱️ **Javascript Projects**
 
 - [Youtube](https://github.com/SophieH93/youtube)
@@ -55,6 +60,8 @@
 3. [Cookbook-Python](http://my-cookbook2020.herokuapp.com/home)
 4. [LIZ HICKEY LIFEDESIGN-Django](https://lizhickeylifedesign.herokuapp.com/)
 
+<hr>
+
 ## 📋 **My GitHub Stats:**
 
 ![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieH93&show_icons=true&theme=radical)
@@ -69,3 +76,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<hr>

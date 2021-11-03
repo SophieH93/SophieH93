@@ -32,7 +32,8 @@
 ![](https://img.shields.io/badge/Canva-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
 
 <hr>
-## 🖱️ **Javascript Projects**
+
+## 🖱️ ![](https://img.shields.io/badge/JAVASCRIPT_PROJECTS-informational?style=flat&logo=&logoColor=white&color=8c52ff)
 
 - [Youtube](https://github.com/SophieH93/youtube)
 - [Job Search](https://github.com/SophieH93/SAAS-JobSearch)

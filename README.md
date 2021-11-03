@@ -66,7 +66,7 @@
 <img align="left" alt="SQL" width="30px" src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" />
 <img align="left" alt="Postgresql" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 
-<br />
+<br /> <br /><br />
 
 ## 📋 **My GitHub Stats:**
 

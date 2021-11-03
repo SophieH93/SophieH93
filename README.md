@@ -1,6 +1,8 @@
 
 [![Header](Hi, I'm Sophie! I am a Frontend Developer.png "Header")(Hi, I'm Sophie! I am a Frontend Developer.png)
 
+![](Hi, I'm Sophie! I am a Frontend Developer.png)
+
 
 ## **Hi there, I'm Sophie and I am a Junior Full Stack Develope-Javascript|React** ❤️‍🔥
 

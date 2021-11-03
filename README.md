@@ -13,6 +13,20 @@
 - 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/), where I am building real life projects & [PAPA React](https://www.papareact.com/) where I learn all things Reactjs!
 - ✨Also interested in Cybersecurity & Ethical Hacking.
 
+## 🔧 **Technologies and Tools:**
+
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Reactjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Material_Ui-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Styled_Components-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/APIs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+![](https://img.shields.io/badge/Canva-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
+
 ## 🖱️ **Javascript Projects**
 
 - [Youtube](https://github.com/SophieH93/youtube)
@@ -40,20 +54,6 @@
 2. [Let's Get Quizzicle-Javascript](https://sophieh93.github.io/letsgetquizzicle/)
 3. [Cookbook-Python](http://my-cookbook2020.herokuapp.com/home)
 4. [LIZ HICKEY LIFEDESIGN-Django](https://lizhickeylifedesign.herokuapp.com/)
-
-## 🔧 **Technologies and Tools:**
-
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Reactjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Material_Ui-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Styled_Components-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/APIs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
-![](https://img.shields.io/badge/Canva-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8c52ff)
 
 ## 📋 **My GitHub Stats:**
 

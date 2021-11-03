@@ -13,12 +13,6 @@
 - 👩‍💻 I’m a member of [Clever Programmer](https://www.cleverprogrammer.com/), where I am building real life projects & [PAPA React](https://www.papareact.com/) where I learn all things Reactjs!
 - ✨Also interested in Cybersecurity & Ethical Hacking.
 
-## 🤓 **Recent Projects**
-
-- [Cyrptoverse](https://github.com/SophieH93/CryptocurrencyApp)
-- [React Login Form](https://github.com/SophieH93/react-loginForm)
-- [Job Search](https://github.com/SophieH93/SAAS-JobSearch)
-
 ## 🖱️ **Javascript Projects**
 
 - [Youtube](https://github.com/SophieH93/youtube)

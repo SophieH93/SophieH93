@@ -33,7 +33,7 @@
 
 <hr>
 
-## 🖱️ ![](https://img.shields.io/badge/JAVASCRIPT_PROJECTS-informational?style=for-the-badge&logo=appveyor=&logoColor=white&color=8c52ff)
+## 🖱️ ![](https://img.shields.io/badge/JAVASCRIPT_PROJECTS-informational?style=for-the-badge&logo=appveyor=&logoColor=white&color=4c00ff)
 
 - [Youtube](https://github.com/SophieH93/youtube)
 - [Job Search](https://github.com/SophieH93/SAAS-JobSearch)
@@ -43,7 +43,7 @@
 - [Blackjack](https://github.com/SophieH93/blackjack)
 - [Spotify Clone](https://github.com/SophieH93/spotify_clone)
 
-## 👩‍💻 **Reactjs Projects**
+## 👩‍💻 ![](https://img.shields.io/badge/REACT_Projects-informational?style=for-the-badge&logo=appveyor=&logoColor=white&color=4c00ff)
 
 - [Cyrptoverse](https://github.com/SophieH93/CryptocurrencyApp)
 - [Disney+](https://github.com/SophieH93/DisneyPlus)
@@ -54,7 +54,7 @@
 - [LinkedIn Clone](https://github.com/SophieH93/linkedInClone)
 - [Netflix Clone](https://github.com/SophieH93/Netflix-Clone)
 
-## 🎓 **College Projects**
+## 🎓 ![](https://img.shields.io/badge/CollEge_projects-informational?style=for-the-badge&logo=appveyor=&logoColor=white&color=4c00ff)
 
 1. [RachelHickeyPhotpgraphy-Frontend Porject](https://sophieh93.github.io/RachelHickeyPhotpgraphy/)
 2. [Let's Get Quizzicle-Javascript](https://sophieh93.github.io/letsgetquizzicle/)
@@ -64,6 +64,8 @@
 <hr>
 
 ## 📋 **My GitHub Stats:**
+
+<br>
 
 ![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieH93&show_icons=true&theme=radical)
 
